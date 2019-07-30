@@ -37,7 +37,7 @@ takes in the action that modifys the page as an input
 4. Why would we convert a NodeList into an Array?
 In order to work with it a different way ie array methods
 5. What is a component?
-a set of potentially reuseable code
+a set of potentially reuseable and recycable code
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
